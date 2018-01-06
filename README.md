@@ -1,9 +1,3 @@
----
-title: "README.md"
-author: "James Turrin"
-date: "November 14, 2015"
-output: html_document
----
 
 run_analysis.R is a stand-alone R program used to download, process, and output
 a tidy dataset of averages of 79 variables for 30 subjects and 6 activities from
