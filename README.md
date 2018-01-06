@@ -5,8 +5,6 @@ date: "November 14, 2015"
 output: html_document
 ---
 
-README.md file for run_analysis.R.
-
 run_analysis.R is a stand-alone R program used to download, process, and output
 a tidy dataset of averages of 79 variables for 30 subjects and 6 activities from
 body-motion data.
